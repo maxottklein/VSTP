@@ -1,5 +1,6 @@
-# VSTP
-## VSTP is a digital step sequenzer built in Unity that is playable in Virtual Reality (VR).
+![logo](https://user-images.githubusercontent.com/41807674/52926392-8b824680-3303-11e9-8307-33204447bc0b.png)
+
+# VSTP is a digital step sequenzer built in Unity that is playable in Virtual Reality (VR).
 
 ![designvstp](https://user-images.githubusercontent.com/41807674/52926262-11ea5880-3303-11e9-8262-5b0a1a6e1c86.png)
 
